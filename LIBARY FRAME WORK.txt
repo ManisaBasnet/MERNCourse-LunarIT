@@ -1,0 +1,16 @@
+LIBARY FRAME WORK
+react,angular,vujes
+
+API helps to tranfer data from font head to back head like in facebook keeping id or setting password.
+
+
+
+BACH HEAD = two way to tranfer data from font to back
+	 1) SQL = eg : MySQL, postgresql, SQLite, marinade, sqlserver
+	 2)NOSQL = eg : mongodb, cassandra
+
+SQL ma alway from ma basxa data haru sabai.SQL is better to use beacuse it is easier for people to understand. SQL demand is high on market.
+
+Font head helps to send data and it also recieve data. eg = on facebook if we prefer to see the photo of someone backhead send data to font head.
+
+HTML is used to make font head only or design only. 
