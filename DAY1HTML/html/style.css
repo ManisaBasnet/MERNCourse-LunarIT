@@ -1,0 +1,41 @@
+p {
+    color: brown;
+    font-size: 50px;
+    background-color: aquamarine;
+}
+
+h1 {
+    color: yellow;
+    font-style: italic;
+    background-color: red;
+    border: 30px soild navy;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 500px;
+    margin-bottom: 100px;
+}
+h3 {
+    color: yellow;
+    background-color: red;
+    border: 2px solid navy;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 500px;
+    margin-bottom: 100px;
+    padding: 20px 10px;
+}
+h2{
+    border-bottom: 2px solid maroon;
+}
+img {
+    margin-left: 1300px;
+    height: 100px;
+    width: 100px;
+}
+a{
+    text-decoration: wavy;
+}
+h6{
+
+    font-weight: 900px;
+}
