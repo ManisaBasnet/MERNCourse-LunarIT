@@ -1,0 +1,24 @@
+DAY 2
+html = hyper text markup language
+
+tag bhitra aako kunai ni word lai attributes vanxa.
+
+image halnda if internet nauda alt ma no image wala message lekeyra dekhaunu milxa
+
+css= cascadaing stylesheet
+INLINE css=   <p style = "color: brown;font-size: x-large;">This is paragraph</p>
+
+style-->
+<style>
+    p{
+      color: brown;
+      font-size: 100px;
+      background-color: aquamarine;
+    }
+  </style>
+INTERNAL css=
+EXTERNAL css=
+
+git add .
+git commit -m "day3 of learning about css"
+

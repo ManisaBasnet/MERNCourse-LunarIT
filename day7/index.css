@@ -1,0 +1,41 @@
+nav {
+    background-color: #269a68;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display:initial;
+    margin-right: 100px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 100px 100px;
+    justify-content:space-evenly;
+    align-items: center;
+  }
+  
+  nav ul li a:hover {
+    color: #ddd;
+  }
+  nav {
+    display: flex;
+    align-items: center;
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  .logo img {
+    height: 60px; /* Adjust as needed */
+    margin-right: 20px;
+  }
+  
+  /* ... rest of your nav styles ... */

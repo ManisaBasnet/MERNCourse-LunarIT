@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #3C486B;
+}
+
+.container{
+    align-items: center;
+    justify-content: center;
+    margin: 350px 550px;
+}
+
+.container h2{
+    margin: 30px 140px;
+    text-align: center;
+    font-weight: 800;
+    color: aliceblue;
+}
+
+.container .adit{
+    background-color: white;
+    height: 200px;
+    width: 950px;
+    padding: 19px 0;
+    z-index: 1;
+    border-radius: 7px;
+    align-items: center;
+    justify-content: center;
+}
+
+.color {
+    font-weight: bold;
+    color: rgb(57, 117, 221);
+}
+
+.adit p {
+    text-align: center;
+    /* display: flex; */
+}
+
+#bold{
+    font-weight: bold;
+}
+
+#color{
+    color:blue;
+}
+
+.adit .paragraph{
+    padding: 7px 0;
+    border-radius: 12px;
+    /* border: 1px solid blue ; */
+}
+
+.paragraph {
+    position: relative;
+    padding: 7px 0;
+    border-radius: 8px;
+}
+
+.paragraph p{
+    margin: 10px 17px;
+    border-radius: 9px;
+    /* border-color: blue; */
+    /* padding: 7px 9px; */
+    border: 3px solid blue ;
+    background-color: white;
+    height: 40px;
+    width: 700px;
+    text-align: left;
+    padding: 5px 1px;
+    /* border: 120px 120px; */
+    font-weight: bold;
+}
+
+.download{
+    position: absolute;
+    top: 50%;
+    right:12px;
+    transform:translateY(-100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrap{
+    height: 8px;   
+    width: 10px;
+    display: flex;
+    /* width: 100px; */
+    margin: 10px 0;
+}
+
+.wrap .download{
+    margin: 60px 0;
+    /* height: 900px; */
+}
+
+.wrap .download span{
+    color: #fff;
+    background-color: green;
+    border-radius: 8px;
+    /* margin: 100px 140px; */
+    /* margin-top: 90px; */
+}
+
+.download span{
+    color: #ccc;
+    display: flex;
+    background-color: green;
+    border-radius: 8px;
+    padding: 16px 17px;
+    cursor: pointer;
+    /* margin: 85px 10px; */
+}
+
+.download i{
+    margin-right: 10px;
+}
+
+#first{
+    /* align-items: center; */
+    background-color: white;
+    border: 3px blue solid;
+    margin: 130px 20px;
+    padding: 20px 30px;
+    border-radius: 8px;
+}
+
+.button{
+    margin: 100px 280px;
+    padding: 0 40px;
+}
+
+#second{
+    /* align-items: center; */
+    background-color: white;
+    border: 3px blue solid;
+    margin: 130px 10px;
+    padding: 20px 10px;
+    border-radius: 8px;
+}
