@@ -60,7 +60,6 @@ var data3 ={
         age :12
     }]
 }
-console.log(data[0].name) 
-console.log(data[1].age)
+console.log(data[0].name,[1].age) 
 console.log(data2[1].name[2])
 console.log(data3.data[0].name[1])
